@@ -4,6 +4,10 @@
 <li><b>📍 Location:  </b> Mexico City 🇲🇽 </li>
 
 #
+Estudiante de Ingeniería Informática.
+Desarrollé proyectos en OpenGL, HTML, CSS, JavaScript y C/C++.
+
+#Sígueme!
 
 <div align="center">
   <a href="https://www.instagram.com/deniiso__/"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
