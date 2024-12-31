@@ -5,7 +5,7 @@
 
 #
 Estudiante de Ingeniería Informática.
-Desarrollé proyectos en OpenGL, HTML, CSS, JavaScript y C/C++.
+Desarrollé proyectos en OpenGL, HTML, CSS, JavaScript, C/C++ y Java.
 
 # Sígueme!
 
