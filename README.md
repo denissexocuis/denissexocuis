@@ -1,6 +1,5 @@
 # **Hi there!**
-<li><b> 👧  Name: Denisse Xocuis </li>
-<li><b> 💬 Languages: </b>  French/English/Spanish</li>
+<li><b> 💬 Languages: </b>  French, English,Japanese and Spanish</li>
 <li><b>📍 Location:  </b> Mexico City 🇲🇽 </li>
 
 #
