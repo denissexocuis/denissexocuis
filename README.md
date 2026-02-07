@@ -1,4 +1,7 @@
 # **Hi there!**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="300px">
+</p>
 <li><b> 💬 Languages: </b>  French, English,Japanese and Spanish</li>
 <li><b>📍 Location:  </b> Mexico City 🇲🇽 </li>
 
