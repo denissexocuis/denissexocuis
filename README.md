@@ -1,7 +1,7 @@
 # **Hi there!**
 
 - **Languages**: 🇪🇸 Spanish (Native) | 🇫🇷 French | 🇺🇸 English | 🇯🇵 Japanese
-- **Current Vibe:** **Fedora + Hyprland** setup and Spacemacs :D
+- **Current Vibe:** **Arch Linux + Hyprland** setup and Spacemacs :D
 - 🇲🇽 Mexico
 
 **Estudiante de Ingeniería Informática.**
